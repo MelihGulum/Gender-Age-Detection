@@ -1,2 +1,0 @@
-gender_dataset_face filter=lfs diff=lfs merge=lfs -text
-gender_detection.model filter=lfs diff=lfs merge=lfs -text
