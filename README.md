@@ -1,4 +1,4 @@
-# Gender Age Detection Using OpenCV
+# Gender Detection Using OpenCV
 
 We aimed to detect age and gender on camera. To make that happen, we use CNN architecture from deep learning and concatenate this model with OpenCV. CNN used for the machine's learn. We have choose CNN because it proved itself with the succeed in the Image Processing field in Deep Learning. Later we integrated it to the camera with help of the OpenCV.
 
@@ -9,4 +9,4 @@ This dataset consist of almost 2.3k data for per two class, men and women. After
 You may use the model previously produced by me or you may build yourself after run train.py.
 
 ## OpenCV
-Subsequently, in detect_gender_webcam.py we integrated our model to camera. Our model returns us the gender and the age.
+Subsequently, in detect_gender_webcam.py we integrated our model to camera. Our model returns us the gender of the person.
