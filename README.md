@@ -7,7 +7,8 @@ This dataset consist of almost 2.3k data for per two class, men and women. After
 
 ## Deep Learning
 You may use the model previously produced by me or you may build yourself after run train.py. You can see the result of training from below image.
-(https://user-images.githubusercontent.com/81585804/168596418-ef6b486f-ef28-4cdc-88ae-ba2de44a8afe.png)
+
+![plot](https://user-images.githubusercontent.com/81585804/168596708-90f8bc52-bd98-4b04-a8b4-f6837882ab37.png)
 
 
 ## OpenCV
